@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lationter.github.io/sitemap.html.gz
+Sitemap: https://lationter.github.io/app/sitemap.html.gz
+Sitemap: https://lationter.github.io/assets/sitemap.html.gz
+Sitemap: https://lationter.github.io/css/sitemap.html.gz
+Sitemap: https://lationter.github.io/includes/sitemap.html.gz
+Sitemap: https://lationter.github.io/item/sitemap.html.gz
+Sitemap: https://lationter.github.io/src/sitemap.html.gz
